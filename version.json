@@ -4,6 +4,10 @@
             "version": "1.1.8",
             "url": "https://github.com/Anturajman/my-game-updates/releases/download/v1.1.8/game.exe"
         },
+        "launchers": {
+            "version": "1.1.5",
+            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v1.1.5/launchers.pck"
+        },
         "shared": {
             "version": "1.1.1",
             "url": "https://github.com/Anturajman/my-game-updates/releases/download/v1.1.1/shared.pck"
