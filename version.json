@@ -5,8 +5,8 @@
             "url": "https://github.com/Anturajman/my-game-updates/releases/download/v3.1.1/game_exe.exe"
         },
         "launcher_patch": {
-            "version": "4.1.1",
-            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v4.1.1/launcher_patch.pck"
+            "version": "4.1.2",
+            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v4.1.2/launcher_patch.pck"
         },
         "shared": {
             "version": "2.1.1",
