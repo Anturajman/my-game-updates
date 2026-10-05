@@ -1,8 +1,8 @@
 {
     "chunks": {
         "game_exe": {
-            "version": "3.1.1",
-            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v3.1.1/game_exe.exe"
+            "version": "3.1.2",
+            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v3.1.2/game_exe.exe"
         },
         "launcher_patch": {
             "version": "4.1.2",
