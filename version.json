@@ -1,32 +1,37 @@
 {
-    "chunks": {
-        "game_exe": {
-            "version": "3.1.2",
-            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v3.1.2/game_exe.exe"
-        },
-        "launcher_patch": {
-            "version": "4.1.3",
-            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v4.1.3/launcher_patch.pck"
-        },
-        "shared": {
-            "version": "2.1.1",
-            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v2.1.1/shared.pck"
-        },
-        "harta": {
-            "version": "7.1.2",
-            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v7.1.2/harta.pck"
-        },
-        "masini": {
-            "version": "5.1.1",
-            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v5.1.1/masini.pck"
-        },
-        "client": {
-            "version": "8.1.1",
-            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v8.1.1/client.pck"
-        },
-        "addons": {
-            "version": "6.1.1",
-            "url": "https://github.com/Anturajman/my-game-updates/releases/download/v6.1.1/addons.pck"
-        }
-    }
+	"chunks": {
+		"addons": {
+			"url": "https://github.com/Anturajman/my-game-updates/releases/download/v6.1.1/addons.pck",
+			"version": "6.1.1"
+		},
+		"client": {
+			"url": "https://github.com/Anturajman/my-game-updates/releases/download/v8.1.1/client.pck",
+			"version": "8.1.1"
+		},
+		"game_exe": {
+			"url": "https://github.com/Anturajman/my-game-updates/releases/download/v3.1.2/game_exe.exe",
+			"version": "3.1.2"
+		},
+		"harta": {
+			"url": "https://github.com/Anturajman/my-game-updates/releases/download/v7.1.2/harta.pck",
+			"version": "7.1.2"
+		},
+		"launcher_patch": {
+			"url": "https://github.com/Anturajman/my-game-updates/releases/download/v4.1.3/launcher_patch.pck",
+			"version": "4.1.3"
+		},
+		"masini": {
+			"url": "https://github.com/Anturajman/my-game-updates/releases/download/v5.1.1/masini.pck",
+			"version": "5.1.1"
+		},
+		"shared": {
+			"url": "https://github.com/Anturajman/my-game-updates/releases/download/v2.1.1/shared.pck",
+			"version": "2.1.1"
+		}
+	},
+	"distribution": {
+		"download_hosts": [],
+		"launcher_url": "https://github.com/Anturajman/my-game-updates/releases/download/v1.1.2/Windows-Player.zip",
+		"manifest_url": "https://raw.githubusercontent.com/Anturajman/my-game-updates/main/version.json"
+	}
 }
